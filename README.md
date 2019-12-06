@@ -1,16 +1,9 @@
-# waxtestnet-endpoints
+# waxtestnet
 
-A list of public API and p2p nodes for the WAX testnet.
+Here you can find relevant information for the WAX testnet.
 
-Add your endpoints to endpoints.json and open a pull request. 
-The format is the following:
+# Guides and other resources
+https://waxsweden.org/testnet
 
-```
-{
-    "name": "",
-    "p2p": "",
-    "api": "",
-}
-```
-
-Leave none relevant fields empty.
+# WAX Official Website
+https://wax.io/
