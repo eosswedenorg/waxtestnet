@@ -2,4 +2,9 @@
     "name": "waxswedenorg",
     "p2p": "testnet.waxsweden.org:59676",
     "api": "https://testnet.waxsweden.org",
+},
+{
+    "name": "waxswedenorg",
+    "p2p": "testnet2.waxsweden.org:59676",
+    "api": "",
 }
