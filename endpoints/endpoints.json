@@ -7,4 +7,9 @@
     "name": "waxswedenorg",
     "p2p": "testnet2.waxsweden.org:59676",
     "api": "",
+},
+{
+    "name": "pink.gg",
+    "p2p": "testnet.wax.pink.gg:9875",
+    "api": "https://testnet.wax.pink.gg",
 }
