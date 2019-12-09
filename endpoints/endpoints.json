@@ -22,4 +22,9 @@
     "name": "alohaeosprod",
     "p2p": "peer.waxtest.alohaeos.com:9876",
     "api": "https://api.waxtest.alohaeos.com"
+},
+{
+    "name": "nation.wax",
+    "p2p": "waxtest.eosn.io:9876",
+    "api": "https://waxtest.eosn.io"
 }]
