@@ -1,4 +1,9 @@
 [{
+    "name": "eosdacserver",
+    "p2p": "wax-test-p2p.eosdac.io:9811",
+    "api": "https://wax-test.eosdac.io"
+},
+ {
     "name": "waxswedenorg",
     "p2p": "testnet.waxsweden.org:59676",
     "api": "https://testnet.waxsweden.org"
