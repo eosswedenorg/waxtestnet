@@ -12,4 +12,10 @@
     "name": "pink.gg",
     "p2p": "testnet.wax.pink.gg:9875",
     "api": "https://testnet.wax.pink.gg",
+},
+{
+    "name": "alohaeosprod",
+    "p2p": "peer.waxtest.alohaeos.com:9876",
+    "api": "https://api.waxtest.alohaeos.com"
 }
+
