@@ -27,4 +27,9 @@
     "name": "nation.wax",
     "p2p": "waxtest.eosn.io:9876",
     "api": "https://waxtest.eosn.io"
+},
+{
+    "name": "waxcafeblock",
+    "p2p": "waxp2p-testnet.eoscafeblock.com:9050",
+    "api": "https://wax-testnet.eoscafeblock.com"
 }]
