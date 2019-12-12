@@ -27,4 +27,9 @@
     "name": "nation.wax",
     "p2p": "waxtest.eosn.io:9876",
     "api": "https://waxtest.eosn.io"
+},
+{
+    "name": "eosriobrazil",
+    "p2p": "testnet.wax.eosrio.io:18032",
+    "api": "https://testnet.wax.eosrio.io"
 }]
