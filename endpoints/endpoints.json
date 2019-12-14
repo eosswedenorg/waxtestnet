@@ -32,4 +32,9 @@
     "name": "waxcafeblock",
     "p2p": "waxp2p-testnet.eoscafeblock.com:9050",
     "api": "https://wax-testnet.eoscafeblock.com"
+},
+{
+    "name": "eosphereiobp",
+    "p2p": "wax-testnet.eosphere.io:9815",
+    "api": "https://wax-testnet.eosphere.io"
 }]
