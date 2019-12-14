@@ -29,6 +29,11 @@
     "api": "https://waxtest.eosn.io"
 },
 {
+    "name": "eosriobrazil",
+    "p2p": "testnet.wax.eosrio.io:18032",
+    "api": "https://testnet.wax.eosrio.io"
+},
+{
     "name": "waxcafeblock",
     "p2p": "waxp2p-testnet.eoscafeblock.com:9050",
     "api": "https://wax-testnet.eoscafeblock.com"
