@@ -39,6 +39,11 @@
     "api": "https://wax-testnet.eoscafeblock.com"
 },
 {
+    "name": "greeneosiobp",
+    "p2p": "p2p.waxtest.greeneosiobp.com:9878",
+    "api": "https://api.waxtest.greeneosiobp.com"
+},
+{
     "name": "eosphereiobp",
     "p2p": "wax-testnet.eosphere.io:9815",
     "api": "https://wax-testnet.eosphere.io"
