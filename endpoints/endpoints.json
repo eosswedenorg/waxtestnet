@@ -42,4 +42,9 @@
     "name": "eosphereiobp",
     "p2p": "wax-testnet.eosphere.io:9815",
     "api": "https://wax-testnet.eosphere.io"
+},
+{
+    "name": "swedencornet",
+    "p2p": "wax-test.eossweden.eu:9062",
+    "api": "https://wax-test.eossweden.eu"
 }]
