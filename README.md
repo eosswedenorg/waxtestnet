@@ -3,7 +3,7 @@
 Here you can find relevant information for the WAX testnet.
 
 # Genesis.json
-https://github.com/eosswedenorg/waxtestnet/blob/master/genesis.json
+https://raw.githubusercontent.com/eosswedenorg/waxtestnet/master/genesis.json
 
 # P2P & API endpoints
 https://github.com/eosswedenorg/waxtestnet/blob/master/endpoints/endpoints.json
