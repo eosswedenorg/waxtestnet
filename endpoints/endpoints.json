@@ -50,7 +50,7 @@
 },
 {
     "name": "maltablockbp",
-    "p2p": "wax-testnet.maltablock.org:9876",
+    "p2p": "p2p-waxtest.maltablock.org:9879",
     "api": "https://wax-testnet.maltablock.org"
 },
 {
