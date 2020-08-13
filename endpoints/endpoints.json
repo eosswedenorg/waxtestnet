@@ -57,4 +57,9 @@
     "name": "swedencornet",
     "p2p": "wax-test.eossweden.eu:9062",
     "api": "https://wax-test.eossweden.eu"
+},
+{
+    "name": "eoscannonwax",
+    "p2p": "wax-testnet.eoscannon.io:16668",
+    "api": "https://wax-testnet.eoscannon.io"
 }]
