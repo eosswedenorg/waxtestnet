@@ -61,5 +61,5 @@
 {
     "name": "eoscannonwax",
     "p2p": "wax-testnet.eoscannon.io:16668",
-    "api": "https://wax-testnet.eoscannon.io"
+    "api": "https://wax-testnet-api.eoscannon.io"
 }]
