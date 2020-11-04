@@ -62,4 +62,9 @@
     "name": "eoscannonwax",
     "p2p": "wax-testnet.eoscannon.io:16668",
     "api": "https://wax-testnet-api.eoscannon.io"
+},
+{
+    "name": "hkeosguildhk",
+    "p2p": "wax-testnet.hkeos.com:29876",
+    "api": "https://wax-testnet.hkeos.com:28888"
 }]
